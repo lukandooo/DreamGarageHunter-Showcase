@@ -19,8 +19,7 @@
 DGH nie jest zwykłą wyszukiwarką. To **analityczny snajper**, który traktuje rynek samochodów używanych jak giełdę. Automatycznie pobiera dane, wykorzystuje zaawansowaną matematykę do wyliczania wartości godziwej (*Fair Price*) i błyskawicznie wskazuje rynkowe anomalie (niedoszacowane oferty), pozwalając inwestorowi na natychmiastowy zysk z arbitrażu.
 
 ### 🎥 Zobacz jak to działa:
-![Dream Garage Hunter Demo](DreamGarageHunterGIF.gif)
-*(Tutaj dodaj gifa lub zrzut ekranu pokazujący płynne działanie interfejsu i ładowanie ofert)*
+![Dream Garage Hunter Demo](26022026DGH640P.gif)
 
 ---
 
